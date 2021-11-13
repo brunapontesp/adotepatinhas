@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'nunito';
+    src: url(../fonts/nunito/Nunito-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'baloo';
+    src: url(../fonts/baloo/BalooThambi2-ExtraBold.ttf);
+}
+// -----------------GERAIS ------------------
+* {
+
+    body {
+        font-family: 'nunito', sans-serif;
+        font-size  : 100%;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        margin-bottom: 0;
+        line-height  : inherit;
+    }
+
+    a,
+    figure,
+    label,
+    button {
+        background-color: transparent;
+        margin-bottom   : 0;
+    }
+
+}
