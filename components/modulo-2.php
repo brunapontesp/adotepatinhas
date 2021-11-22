@@ -7,7 +7,7 @@
             <a href="#" class="text-center mt-2">Ver todos os posts</a>
         </div>
 
-        <div class="row gx-5 my-5">
+        <div class="row my-5">
             <div class="box-cards d-flex">
                 <div class="card col mx-1">
                     <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
