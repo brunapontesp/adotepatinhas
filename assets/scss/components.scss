@@ -1,1 +1,18 @@
 @use "mixin";
+
+.modulo-1 {
+    padding: 3rem 0;
+    
+}
+
+.modulo-2 {
+    padding: 3rem 0;
+    .blog {
+        &::after {
+            content: url("https://via.placeholder.com/400x30");
+        }
+        &::before {
+            content: url("https://via.placeholder.com/400x30");
+        }
+    }
+}

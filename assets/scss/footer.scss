@@ -1,3 +1,32 @@
-.rodape-1 {
-    
+.rodape {
+    background-color: #80c0e4;
+    padding: 3rem 0;
+    .social-media {
+        .fab {
+            font-size: 2rem;
+            text-align: center;
+            text-decoration: none;
+            margin: 0 1rem;
+            border-radius: 50%;
+            transition: all ease-in 0.2s;
+            &:hover {
+                color: #e1738c;
+            }
+        }
+    }
+    .info {
+        h5 {
+            font-size: 1rem;
+            color: rgba(0,0,0,.7);
+            font-family: 'Poppins', sans-serif;
+        }
+    }
+
+    .copy {
+        h5 {
+            font-size: .8rem;
+            color: rgba(0,0,0,.7);
+            font-family: 'Poppins', sans-serif;
+        }
+    }
 }

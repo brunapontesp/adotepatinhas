@@ -1,4 +1,38 @@
 /*---------------------------------imports e configuracao padrao------------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@700&display=swap");
+.banner-1 .slick-banner .slick-prev {
+  left: 70px;
+  z-index: 1;
+}
+.banner-1 .slick-banner .slick-prev::before {
+  font-size: 40px;
+}
+.banner-1 .slick-banner .slick-next {
+  right: 90px;
+  z-index: 1;
+}
+.banner-1 .slick-banner .slick-next::before {
+  font-size: 40px;
+}
+.banner-1 .slick-banner .banner .overlay {
+  color: #FFF;
+  font-family: "Poppins", sans-serif;
+  width: 50%;
+  z-index: 1;
+  top: 4rem;
+  left: 10rem;
+}
+.banner-1 .slick-banner .banner .overlay h2 {
+  font-size: 4rem;
+}
+.banner-1 .slick-banner .banner .overlay .btn {
+  border: 1px solid #FFF;
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+}
+
 /* 
 1920x1080 = 6.1%
 1680x1050 = 5.1%
@@ -23,14 +57,20 @@ em regras de uso
 1680x1050 = 5.1%
 1600x900 = 3.8%
 */
-@font-face {
-  font-family: "nunito";
-  src: url(../fonts/nunito/Nunito-Regular.ttf);
+.modulo-1 {
+  padding: 3rem 0;
 }
-@font-face {
-  font-family: "baloo";
-  src: url(../fonts/baloo/BalooThambi2-ExtraBold.ttf);
+
+.modulo-2 {
+  padding: 3rem 0;
 }
+.modulo-2 .blog::after {
+  content: url("https://via.placeholder.com/400x30");
+}
+.modulo-2 .blog::before {
+  content: url("https://via.placeholder.com/400x30");
+}
+
 * body {
   font-family: "nunito", sans-serif;
   font-size: 100%;
@@ -51,6 +91,62 @@ em regras de uso
 * button {
   background-color: transparent;
   margin-bottom: 0;
+}
+
+.rodape {
+  background-color: #80c0e4;
+  padding: 3rem 0;
+}
+.rodape .social-media .fab {
+  font-size: 2rem;
+  text-align: center;
+  text-decoration: none;
+  margin: 0 1rem;
+  border-radius: 50%;
+  transition: all ease-in 0.2s;
+}
+.rodape .social-media .fab:hover {
+  color: #e1738c;
+}
+.rodape .info h5 {
+  font-size: 1rem;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: "Poppins", sans-serif;
+}
+.rodape .copy h5 {
+  font-size: 0.8rem;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: "Poppins", sans-serif;
+}
+
+.menu {
+  border-top: 5px solid #80c0e4;
+}
+.menu .navbar-brand {
+  width: 80px;
+  height: auto;
+}
+.menu .navbar-nav .nav-item {
+  margin: 0 2rem;
+}
+.menu .navbar-nav .nav-item .nav-link {
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  transition: all ease-in 0.2s;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+.menu .navbar-nav .nav-item .nav-link:hover {
+  color: #e1738c;
+}
+.menu .navbar-nav.navbar-login .nav-item {
+  margin: 0 0.5rem;
+}
+.menu .navbar-nav.navbar-login .nav-item .nav-link {
+  color: #5ba0d3;
+}
+.menu .navbar-nav.navbar-login .nav-item .nav-link:hover {
+  color: #e1738c;
 }
 
 /* 
@@ -124,6 +220,11 @@ body .form-control:focus {
   border-color: unset;
   outline: 0;
   box-shadow: none;
+}
+* body,
+html body,
+body body {
+  font-family: "Montserrat", sans-serif;
 }
 
 /*# sourceMappingURL=custom.css.map */

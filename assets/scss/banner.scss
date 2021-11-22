@@ -1,3 +1,46 @@
-.banner-1 {}
+.banner-1 {
+    .slick-banner {
+        .slick-prev {
+            left: 70px;
+            z-index: 1;
+            &::before {
+                font-size: 40px;
+            }
+        }
+        .slick-next {
+            right: 90px;
+            z-index: 1;
+            &::before {
+                font-size: 40px;
+            }
+        }
+
+        .banner {
+            .overlay {
+                color: #FFF;
+                font-family: 'Poppins', sans-serif;
+                width: 50%;
+                z-index: 1;
+                top: 4rem;
+                left: 10rem;
+                h2 {
+                    font-size: 4rem;
+                }
+    
+                .btn {
+                    border: 1px solid #FFF;
+                    color: #fff;
+                    font-size: 1rem;
+                    border-radius: .5rem;
+                    text-transform: uppercase;
+                }
+            }
+        }
+
+    }
+    
+}
+
 .banner-2 {}
+
 .banner-3 {}
