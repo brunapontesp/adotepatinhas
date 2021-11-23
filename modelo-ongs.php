@@ -2,9 +2,9 @@
 <main id="ongs">
     <!-- menu -->
     <?php require('components/menu.php'); ?>
-    <!-- modulo-3 -->
+    <!-- modulo-5 -->
     <?php require('components/modulo-5.php'); ?>
-    <!-- modulo-4 -->
+    <!-- modulo-6 -->
     <?php require('components/modulo-6.php'); ?>
     <!-- rodape -->
     <?php require('components/rodape.php'); ?>
