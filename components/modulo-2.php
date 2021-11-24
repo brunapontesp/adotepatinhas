@@ -10,7 +10,7 @@
         <div class="row my-5">
             <div class="box-cards d-flex">
                 <div class="card col mx-1">
-                    <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                    <img src="assets/img/blog1.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="card col mx-1">
-                    <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                    <img src="assets/img/blog2.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
@@ -32,7 +32,7 @@
                 </div>
 
                 <div class="card col mx-1">
-                    <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                    <img src="assets/img/blog3.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the

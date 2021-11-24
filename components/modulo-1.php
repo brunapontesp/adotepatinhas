@@ -13,25 +13,24 @@
         <div class="row gx-5 my-5">
             <div class="box-cards d-flex">
                 <div class="card col mx-1">
-                    <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                    <img src="assets/img/sobre1.png" class="card-img-top img-fluid">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text my-4">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Faça seu cadastro</h5>
+                        <p class="card-text my-4">Para adotar um bichinho ou cadastrar sua ONG é preciso se registrar.</p>
                     </div>
                 </div>
 
                 <div class="card col mx-1">
-                    <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                    <img src="assets/img/sobre2.png" class="card-img-top img-fluid">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text my-4">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Encontre seu novo amigo ou encontre uma casa para um pet!</h5>
+                        <p class="card-text my-4">Em nossa plataforma, diversos pets estão disponíveis para serem adotados.
+                            Visite a página "Animais" e os conheça!</p>
                     </div>
                 </div>
 
                 <div class="card col mx-1">
-                    <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                    <img src="assets/img/sobre3.png" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the bulk of

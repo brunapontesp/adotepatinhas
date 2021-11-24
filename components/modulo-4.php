@@ -5,7 +5,7 @@
 
                 <div class="box-cards d-flex mb-5">
                     <div class="card col mx-1">
-                        <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                        <img src="assets/img/adote1.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text my-4">Some quick example text to build on the card title and make up the
@@ -16,7 +16,7 @@
                     </div>
 
                     <div class="card col mx-1">
-                        <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                        <img src="assets/img/adote2.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text my-4">Some quick example text to build on the card title and make up the
@@ -27,7 +27,7 @@
                     </div>
 
                     <div class="card col mx-1">
-                        <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                        <img src="assets/img/adote3.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text my-4">Some quick example text to build on the card title and make up the
@@ -38,7 +38,7 @@
                     </div>
 
                     <div class="card col mx-1">
-                        <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                        <img src="assets/img/adote4.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text my-4">Some quick example text to build on the card title and make up the
@@ -51,7 +51,7 @@
 
                 <div class="box-cards d-flex">
                     <div class="card col mx-1">
-                        <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                        <img src="assets/img/adote5.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text my-4">Some quick example text to build on the card title and make up the
@@ -62,7 +62,7 @@
                     </div>
 
                     <div class="card col mx-1">
-                        <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                        <img src="assets/img/adote6.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text my-4">Some quick example text to build on the card title and make up the
@@ -73,7 +73,7 @@
                     </div>
 
                     <div class="card col mx-1">
-                        <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                        <img src="assets/img/adote7.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text my-4">Some quick example text to build on the card title and make up the
@@ -84,7 +84,7 @@
                     </div>
 
                     <div class="card col mx-1">
-                        <img src="https://via.placeholder.com/300x300" class="card-img-top img-fluid">
+                        <img src="assets/img/adote8.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Card title</h5>
                             <p class="card-text my-4">Some quick example text to build on the card title and make up the

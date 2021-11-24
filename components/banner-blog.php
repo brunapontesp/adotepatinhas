@@ -3,7 +3,7 @@
         <div class="row justify-content-center align-items-center">
 
             <div class="banner d-flex justify-content-center align-items-center">
-                <img src="https://via.placeholder.com/1900x650" alt="" class="img-fluid">
+                <img src="assets/img/blog-banner.jpg" alt="" class="img-fluid">
                 <div class="overlay position-absolute">
                     <h2>BLOG</h2>
                 </div>

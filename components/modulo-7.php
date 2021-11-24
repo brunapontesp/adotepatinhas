@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-8">
-                <img src="https://via.placeholder.com/600x400" alt="" class="img-fluid mb-4">
+                <img src="assets/img/blog1.jpg" alt="" class="img-fluid mb-4">
                 <div class="data">
                     22 de Novembro de 2021
                 </div>
