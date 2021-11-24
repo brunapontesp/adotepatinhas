@@ -6,6 +6,10 @@
                     <img src="assets/img/blog1.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
+                        <span class="meta">
+                            <p>24 de novembro de 2021</p>
+                            <a href="http://">Dicas</a>
+                        </span>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
                             bulk of
                             the card's content.</p>
@@ -17,6 +21,10 @@
                     <img src="assets/img/blog2.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
+                        <span class="meta">
+                            <p>24 de novembro de 2021</p>
+                            <a href="http://">Dicas</a>
+                        </span>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
                             bulk of
                             the card's content.</p>
@@ -28,6 +36,10 @@
                     <img src="assets/img/blog3.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
+                        <span class="meta">
+                            <p>24 de novembro de 2021</p>
+                            <a href="http://">Dicas</a>
+                        </span>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
                             bulk of
                             the card's content.</p>
@@ -42,6 +54,10 @@
                     <img src="assets/img/blog4.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
+                        <span class="meta">
+                            <p>24 de novembro de 2021</p>
+                            <a href="http://">Dicas</a>
+                        </span>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
                             bulk of
                             the card's content.</p>
@@ -53,6 +69,10 @@
                     <img src="assets/img/blog5.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
+                        <span class="meta">
+                            <p>24 de novembro de 2021</p>
+                            <a href="http://">Dicas</a>
+                        </span>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
                             bulk of
                             the card's content.</p>
@@ -64,6 +84,10 @@
                     <img src="assets/img/blog6.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
+                        <span class="meta">
+                            <p>24 de novembro de 2021</p>
+                            <a href="http://">Dicas</a>
+                        </span>
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
                             bulk of
                             the card's content.</p>

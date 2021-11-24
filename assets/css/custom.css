@@ -40,6 +40,18 @@
   opacity: 0.8;
 }
 
+.banner-blog .banner img {
+  opacity: 0.8;
+}
+.banner-blog .overlay {
+  color: #FFF;
+  font-family: "Poppins", sans-serif;
+  z-index: 1;
+}
+.banner-blog .overlay h2 {
+  font-size: 5rem;
+}
+
 /* 
 1920x1080 = 6.1%
 1680x1050 = 5.1%
@@ -304,6 +316,85 @@ em regras de uso
 
 .modulo-7 {
   padding: 3rem 0;
+}
+.modulo-7 .data {
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.55);
+}
+.modulo-7 .titulo-post {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
+  color: #e1738c;
+}
+.modulo-7 .btn {
+  border: 1px solid #5ba0d3;
+  color: #fff;
+  background-color: #5ba0d3;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+  width: 30%;
+  transition: all ease-in 0.3s;
+  font-family: "Poppins", sans-serif;
+}
+.modulo-7 .btn:hover {
+  background-color: #fff;
+  color: #5ba0d3;
+}
+.modulo-7 .categorias .item-categoria {
+  padding: 0 2rem;
+  margin-bottom: 2rem;
+  font-weight: 700;
+}
+
+.modulo-8 .card .card-img-top {
+  max-width: 365px !important;
+  height: 240px !important;
+}
+.modulo-8 .card .card-body .card-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  color: #e1738c;
+}
+.modulo-8 .card .card-body .meta {
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 0.9rem;
+}
+.modulo-8 .card .card-body .meta a {
+  color: rgba(0, 0, 0, 0.55);
+}
+.modulo-8 .card .btn {
+  border: 1px solid #5ba0d3;
+  color: #fff;
+  background-color: #5ba0d3;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+  width: 70%;
+  transition: all ease-in 0.3s;
+  font-family: "Poppins", sans-serif;
+}
+.modulo-8 .card .btn:hover {
+  background-color: #fff;
+  color: #5ba0d3;
+}
+.modulo-8 .btn {
+  border: 1px solid #5ba0d3;
+  color: #fff;
+  background-color: #5ba0d3;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+  width: 25%;
+  transition: all ease-in 0.3s;
+  font-family: "Poppins", sans-serif;
+  margin: 0 auto;
+}
+.modulo-8 .btn:hover {
+  background-color: #fff;
+  color: #5ba0d3;
 }
 
 .login {

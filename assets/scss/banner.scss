@@ -46,3 +46,19 @@
     }
     
 }
+
+.banner-blog {
+    .banner {
+        img {
+            opacity: .8;
+        }
+    }
+    .overlay {
+        color: #FFF;
+        font-family: 'Poppins', sans-serif;
+        z-index: 1;
+        h2 {
+            font-size: 5rem;
+        }
+    }
+}

@@ -30,6 +30,18 @@
                     <div class="item-categoria">
                         Saúde Pet
                     </div>
+                    <div class="item-categoria">
+                        Gatinhos
+                    </div>
+                    <div class="item-categoria">
+                        Cachorrinhos
+                    </div>
+                    <div class="item-categoria">
+                        Vet do seu pet
+                    </div>
+                    <div class="item-categoria">
+                        Faça você mesmo
+                    </div>
                 </div>
             </aside>
         </div>
