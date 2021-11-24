@@ -2,11 +2,14 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="sobre">
-                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error culpa nisi quidem,
+                <h3 class="titulo text-center">Sobre a Adote Patinhas</h3>
+                <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error culpa nisi quidem,
                     placeat corrupti
                     porro eligendi illo laboriosam fuga, assumenda, ullam ut provident maxime laborum quo iusto
-                    voluptatum quia necessitatibus.</p>
-                <p class="text-center">Quer fazer parte dessa corrente do bem e adotar? Entenda como funciona:</p>
+                    voluptatum quia necessitatibus.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt quidem, libero quibusdam ipsam, eligendi rerum sint odio ullam facere ipsum enim officiis consectetur. Ipsa quia ratione odio sed, reprehenderit similique.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam dolores sunt commodi magni assumenda, obcaecati repellendus quisquam vel molestias! Expedita debitis pariatur harum autem, beatae laborum ullam totam non ab.</p>
+                <p class="text-center sub">Quer fazer parte dessa corrente do bem e adotar? Entenda como funciona:</p>
             </div>
         </div>
 

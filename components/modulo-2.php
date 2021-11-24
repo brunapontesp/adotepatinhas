@@ -1,10 +1,10 @@
 <section class="modulo-2">
     <div class="container">
         <div class="row justify-content-center">
-            <h2 class="text-center blog">
+            <h2 class="text-center titulo">
                 Últimas do <strong>Blog</strong>
             </h2>
-            <a href="#" class="text-center mt-2">Ver todos os posts</a>
+            <a href="#" class="text-center mt-2 link-blog">Ver todos os posts</a>
         </div>
 
         <div class="row my-5">
@@ -16,7 +16,7 @@
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
                             bulk of
                             the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn">Go somewhere</a>
                     </div>
                 </div>
 
@@ -27,7 +27,7 @@
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
                             bulk of
                             the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn">Go somewhere</a>
                     </div>
                 </div>
 
@@ -38,7 +38,7 @@
                         <p class="card-text my-4">Some quick example text to build on the card title and make up the
                             bulk of
                             the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn">Go somewhere</a>
                     </div>
                 </div>
             </div>
