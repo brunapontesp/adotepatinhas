@@ -8,10 +8,21 @@
                         <img src="assets/img/adote1.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Sherlock</h5>
-                            <p class="card-text my-4">ONG EXEMPLO <br>
-                            São Paulo - SP<br>
-                            Macho</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+
+                            <div class="card-text my-4">
+                                <a class="ong">ONG EXEMPLO</a>
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                                <span class="d-flex">
+                                    <i class="fas fa-venus-mars me-2"></i>
+                                    <p>Macho</p>
+                                </span>
+
+                            </div>
+
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
                         </div>
                     </div>
 
@@ -19,10 +30,20 @@
                         <img src="assets/img/adote2.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Tarzan</h5>
-                            <p class="card-text my-4">ONG EXEMPLO <br>
-                            São Paulo - SP<br>
-                            Macho</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+
+                            <div class="card-text my-4">
+                                <a class="ong">ONG EXEMPLO</a>
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                                <span class="d-flex">
+                                    <i class="fas fa-venus-mars me-2"></i>
+                                    <p>Macho</p>
+                                </span>
+                            </div>
+
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
                         </div>
                     </div>
 
@@ -30,10 +51,18 @@
                         <img src="assets/img/adote3.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Penélope</h5>
-                            <p class="card-text my-4">ONG EXEMPLO <br>
-                            São Paulo - SP<br>
-                            Fêmea</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <a class="ong">ONG EXEMPLO</a>
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                                <span class="d-flex">
+                                    <i class="fas fa-venus-mars me-2"></i>
+                                    <p>Fêmea</p>
+                                </span>
+                            </div>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
                         </div>
                     </div>
 
@@ -41,10 +70,18 @@
                         <img src="assets/img/adote4.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Nemo</h5>
-                            <p class="card-text my-4">ONG EXEMPLO <br>
-                            São Paulo - SP<br>
-                            Macho</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <a class="ong">ONG EXEMPLO</a>
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                                <span class="d-flex">
+                                    <i class="fas fa-venus-mars me-2"></i>
+                                    <p>Macho</p>
+                                </span>
+                            </div>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -54,10 +91,18 @@
                         <img src="assets/img/adote5.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Hermione</h5>
-                            <p class="card-text my-4">ONG EXEMPLO <br>
-                            São Paulo - SP<br>
-                            Fêmea</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <a class="ong">ONG EXEMPLO</a>
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                                <span class="d-flex">
+                                    <i class="fas fa-venus-mars me-2"></i>
+                                    <p>Fêmea</p>
+                                </span>
+                            </div>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
                         </div>
                     </div>
 
@@ -65,10 +110,18 @@
                         <img src="assets/img/adote6.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Ariel</h5>
-                            <p class="card-text my-4">ONG EXEMPLO <br>
-                            São Paulo - SP<br>
-                            Fêmea</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <a class="ong">ONG EXEMPLO</a>
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                                <span class="d-flex">
+                                    <i class="fas fa-venus-mars me-2"></i>
+                                    <p>Fêmea</p>
+                                </span>
+                            </div>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
                         </div>
                     </div>
 
@@ -76,10 +129,18 @@
                         <img src="assets/img/adote7.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Percy</h5>
-                            <p class="card-text my-4">ONG EXEMPLO <br>
-                            São Paulo - SP<br>
-                            Macho</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <a class="ong">ONG EXEMPLO</a>
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                                <span class="d-flex">
+                                    <i class="fas fa-venus-mars me-2"></i>
+                                    <p>Macho</p>
+                                </span>
+                            </div>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
                         </div>
                     </div>
 
@@ -87,10 +148,18 @@
                         <img src="assets/img/adote8.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Leia</h5>
-                            <p class="card-text my-4">ONG EXEMPLO <br>
-                            São Paulo - SP<br>
-                            Fêmea</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <a class="ong">ONG EXEMPLO</a>
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                                <span class="d-flex">
+                                    <i class="fas fa-venus-mars me-2"></i>
+                                    <p>Fêmea</p>
+                                </span>
+                            </div>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
                         </div>
                     </div>
                 </div>
@@ -109,7 +178,7 @@
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                            <button type="button" class="btn btn-primary">Save changes</button>
+                            <button type="button" class="btn">Save changes</button>
                         </div>
                     </div>
                 </div>

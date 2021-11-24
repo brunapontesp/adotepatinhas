@@ -5,7 +5,7 @@
                 ONGs parceiras
             </h2>
             <p class="conteudo mb-4">
-                Aqui você encontra as ONG's que fazem parte desse time!
+                Faça uma visitinha as ONG's que fazem parte desse time e criam essa corrente do bem!
             </p>
         </div>
         <div class="row justify-content-center align-items-center">

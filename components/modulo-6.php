@@ -8,8 +8,16 @@
                         <img src="assets/img/ong1.png" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Clube Totó</h5>
-                            <p class="card-text my-4">São Paulo - SP </p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                            </div>
+                            <div class="social-media text-center">
+                                <a href="#" class="fab fa-facebook"></a>
+                                <a href="#" class="fab fa-instagram"></a>
+                            </div>
                         </div>
                     </div>
 
@@ -17,8 +25,16 @@
                         <img src="assets/img/ong2.png" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Paraíso Patinhas</h5>
-                            <p class="card-text my-4">São Paulo - SP</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                            </div>
+                            <div class="social-media text-center">
+                                <a href="#" class="fab fa-facebook"></a>
+                                <a href="#" class="fab fa-instagram"></a>
+                            </div>
                         </div>
                     </div>
 
@@ -26,8 +42,16 @@
                         <img src="assets/img/ong3.png" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Mia Casa</h5>
-                            <p class="card-text my-4">São Paulo - SP</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                            </div>
+                            <div class="social-media text-center">
+                                <a href="#" class="fab fa-facebook"></a>
+                                <a href="#" class="fab fa-instagram"></a>
+                            </div>
                         </div>
                     </div>
 
@@ -35,8 +59,16 @@
                         <img src="assets/img/ong4.png" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Focinho Feliz</h5>
-                            <p class="card-text my-4">São Paulo - SP</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                            </div>
+                            <div class="social-media text-center">
+                                <a href="#" class="fab fa-facebook"></a>
+                                <a href="#" class="fab fa-instagram"></a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -46,8 +78,16 @@
                         <img src="assets/img/ong5.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Lar Vira Lata</h5>
-                            <p class="card-text my-4">São Paulo - SP</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                            </div>
+                            <div class="social-media text-center">
+                                <a href="#" class="fab fa-facebook"></a>
+                                <a href="#" class="fab fa-instagram"></a>
+                            </div>
                         </div>
                     </div>
 
@@ -55,8 +95,16 @@
                         <img src="assets/img/ong6.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Amor Miau</h5>
-                            <p class="card-text my-4">São Paulo - SP</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                            </div>
+                            <div class="social-media text-center">
+                                <a href="#" class="fab fa-facebook"></a>
+                                <a href="#" class="fab fa-instagram"></a>
+                            </div>
                         </div>
                     </div>
 
@@ -64,8 +112,16 @@
                         <img src="assets/img/ong7.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Abrigo Animal</h5>
-                            <p class="card-text my-4">São Paulo - SP</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                            </div>
+                            <div class="social-media text-center">
+                                <a href="#" class="fab fa-facebook"></a>
+                                <a href="#" class="fab fa-instagram"></a>
+                            </div>
                         </div>
                     </div>
 
@@ -73,8 +129,16 @@
                         <img src="assets/img/ong8.jpg" class="card-img-top img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Mi&Au</h5>
-                            <p class="card-text my-4">São Paulo - SP</p>
-                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <div class="card-text my-4">
+                                <span class="d-flex my-3">
+                                    <i class="fas fa-map-marker-alt me-2"></i>
+                                    <p>São Paulo - SP</p>
+                                </span>
+                            </div>
+                            <div class="social-media text-center">
+                                <a href="#" class="fab fa-facebook"></a>
+                                <a href="#" class="fab fa-instagram"></a>
+                            </div>
                         </div>
                     </div>
                 </div>

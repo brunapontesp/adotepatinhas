@@ -5,12 +5,12 @@
                 Campanha de adoção
             </h2>
             <p class="conteudo mb-4">
-                Encontre aqui o seu novo parceiro! 
+                Que tal conhecer nossos amigos de patinhas? É um mais fofo que o outro!
             </p>
         </div>
         <div class="row justify-content-center align-items-center">
             <form class="d-flex flex-wrap">
-                <h5 class="col-12 mb-4">Filtre por</h5>
+                <h5 class="col-12 mb-4 sub">Filtre por</h5>
                 <select class="form-select" aria-label="Estado">
                     <option selected>Estado</option>
                     <option value="1">One</option>
@@ -23,7 +23,7 @@
                     <option value="2">Two</option>
                     <option value="3">Three</option>
                 </select>
-                <button type="submit" class="btn btn-primary">Buscar</button>
+                <button type="submit" class="btn">Buscar</button>
             </form>
         </div>
     </div>
