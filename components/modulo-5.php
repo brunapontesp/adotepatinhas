@@ -5,9 +5,7 @@
                 ONGs parceiras
             </h2>
             <p class="conteudo mb-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, mollitia quasi aut hic, deleniti nulla
-                dicta eius, nesciunt rerum nam vel architecto. Tenetur amet expedita pariatur itaque eveniet praesentium
-                quam.
+                Aqui você encontra as ONG's que fazem parte desse time!
             </p>
         </div>
         <div class="row justify-content-center align-items-center">
