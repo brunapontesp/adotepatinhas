@@ -3,10 +3,10 @@
         <div class="row justify-content-center align-items-center">
 
             <div class="banner d-flex justify-content-center align-items-center">
-                <img src="https://via.placeholder.com/1900x650" alt="" class="img-fluid">
-                <div class="overlay position-absolute">
-                    <h6 class="mb-4">22 DE NOVEMBRO | CATEGORIA</h6>
-                    <h2>TÍTULO DO POST</h2>
+                <img src="assets/img/blog1.jpg" alt="" class="img-fluid">
+                <div class="overlay position-absolute text-center">
+                    <h6 class="mb-4 data">22 DE NOVEMBRO | CATEGORIA</h6>
+                    <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit</h2>
                 </div>
             </div>
 

@@ -26,6 +26,7 @@
                 left: 15rem;
                 h2 {
                     font-size: 5rem;
+                    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.487);
                 }
 
                 .btn {
@@ -59,6 +60,27 @@
         z-index: 1;
         h2 {
             font-size: 5rem;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.487);
+        }
+    }
+}
+
+.banner-single {
+    .banner {
+        img {
+            opacity: .8;
+        }
+    }
+    .overlay {
+        color: #FFF;
+        font-family: 'Poppins', sans-serif;
+        z-index: 1;
+        h2 {
+            font-size: 5rem;
+        }
+
+        h2, h6 {
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.487);
         }
     }
 }

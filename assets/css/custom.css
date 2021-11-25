@@ -27,6 +27,7 @@
 }
 .banner-1 .slick-banner .banner .overlay h2 {
   font-size: 5rem;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.487);
 }
 .banner-1 .slick-banner .banner .overlay .btn {
   border: 1px solid #FFF;
@@ -50,6 +51,22 @@
 }
 .banner-blog .overlay h2 {
   font-size: 5rem;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.487);
+}
+
+.banner-single .banner img {
+  opacity: 0.8;
+}
+.banner-single .overlay {
+  color: #FFF;
+  font-family: "Poppins", sans-serif;
+  z-index: 1;
+}
+.banner-single .overlay h2 {
+  font-size: 5rem;
+}
+.banner-single .overlay h2, .banner-single .overlay h6 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.487);
 }
 
 /* 

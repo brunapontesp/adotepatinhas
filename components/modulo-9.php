@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-8">
-                <img src="https://via.placeholder.com/600x400" alt="" class="img-fluid mb-4">
+                <img src="assets/img/blog1.jpg" alt="" class="img-fluid mb-4">
                 <div class="conteudo-post my-3">
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure, perspiciatis autem saepe repellat mollitia similique dolores, quibusdam omnis architecto nobis explicabo harum deleniti natus deserunt aut, tempora officiis illo nisi!
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores nobis porro incidunt quo ipsam! Tempora magnam aut nemo earum velit, esse distinctio eius iusto? Fuga maxime voluptates labore quod consequuntur?
@@ -30,6 +30,18 @@
                     </div>
                     <div class="item-categoria">
                         Saúde Pet
+                    </div>
+                    <div class="item-categoria">
+                        Gatinhos
+                    </div>
+                    <div class="item-categoria">
+                        Cachorrinhos
+                    </div>
+                    <div class="item-categoria">
+                        Vet do seu pet
+                    </div>
+                    <div class="item-categoria">
+                        Faça você mesmo
                     </div>
                 </div>
             </aside>

@@ -9,9 +9,9 @@
                 <div class="titulo-post my-3">
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit
                 </div>
-                <div class="btn">
+                <a href="single.php" class="btn">
                     Leia mais
-                </div>
+                </a>
             </div>
 
             <aside class="col-sm-4">

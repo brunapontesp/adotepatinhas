@@ -6,9 +6,9 @@
                     <img src="assets/img/banner1.jpeg" alt="" class="img-fluid">
                     <div class="overlay position-absolute">
                         <h2>Adote Patinhas, um amor de verdade! </h2>
-                        <div class="btn mt-4">
+                        <a href="modelo-adocao.php" class="btn mt-4">
                             Adote
-                        </div>
+                        </a>
                     </div>
                 </div>
 
@@ -16,9 +16,9 @@
                     <img src="assets/img/banner2.jpeg" alt="" class="img-fluid">
                     <div class="overlay position-absolute">
                         <h2>Conheça as ONGs parceiras da Adote</h2>
-                        <div class="btn mt-4">
+                        <a href="modelo-ongs.php" class="btn mt-4">
                             Veja aqui
-                        </div>
+                        </a>
                     </div>
                 </div>
 

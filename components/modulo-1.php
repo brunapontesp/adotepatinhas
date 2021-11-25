@@ -18,7 +18,7 @@
                 <div class="card col mx-1">
                     <img src="assets/img/sobre1.png" class="card-img-top img-fluid">
                     <div class="card-body">
-                        <h5 class="card-title">Faça seu cadastro</h5>
+                        <h5 class="card-title">Cria uma conta aqui na <br> Adote Patinhas</h5>
                         <p class="card-text my-4">Para adotar um bichinho ou cadastrar sua ONG é preciso se registrar.</p>
                     </div>
                 </div>
@@ -28,16 +28,15 @@
                     <div class="card-body">
                         <h5 class="card-title">Encontre seu novo amigo ou encontre uma casa para um pet!</h5>
                         <p class="card-text my-4">Em nossa plataforma, diversos pets estão disponíveis para serem adotados.
-                            Visite a página "Animais" e os conheça!</p>
+                            Visite a página "Adoção" e os conheça!</p>
                     </div>
                 </div>
 
                 <div class="card col mx-1">
                     <img src="assets/img/sobre3.png" class="card-img-top img-fluid">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text my-4">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Levando seu amigo de patinhas para casa</h5>
+                        <p class="card-text my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum dolorem cupiditate blanditiis, aut ut, alias eius optio harum perspiciatis hic nobis possimus magnam nihil repudiandae velit laudantium numquam consequatur iste.</p>
                     </div>
                 </div>
             </div>
