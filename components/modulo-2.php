@@ -12,33 +12,27 @@
                 <div class="card col mx-1">
                     <img src="assets/img/blog1.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
-                        <h5 class="card-title">Lorem ipsum dolor sit amet consectetur</h5>
-                        <p class="card-text my-4">Some quick example text to build on the card title and make up the
-                            bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn">Go somewhere</a>
+                        <h5 class="card-title">Cuidados com a higiene do seu pet!</h5>
+                        <p class="card-text my-4">Confira esta matéria!</p>
+                        <a href="#" class="btn">Leia mais</a>
                     </div>
                 </div>
 
                 <div class="card col mx-1">
                     <img src="assets/img/blog2.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
-                        <h5 class="card-title">Lorem ipsum dolor sit amet consectetur</h5>
-                        <p class="card-text my-4">Some quick example text to build on the card title and make up the
-                            bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn">Go somewhere</a>
+                        <h5 class="card-title">Brinquedos que ajudam no desenvolvimento do seu bichinho!</h5>
+                        <p class="card-text my-4">Confira esta matéria!</p>
+                        <a href="#" class="btn">Leia mais</a>
                     </div>
                 </div>
 
                 <div class="card col mx-1">
                     <img src="assets/img/blog3.jpg" class="card-img-top img-fluid">
                     <div class="card-body">
-                        <h5 class="card-title">Lorem ipsum dolor sit amet consectetur</h5>
-                        <p class="card-text my-4">Some quick example text to build on the card title and make up the
-                            bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn">Go somewhere</a>
+                        <h5 class="card-title">Vacinas: Entenda quais são as vacinas a serem aplicadas no seu pet!</h5>
+                        <p class="card-text my-4">Confira esta matéria!</p>
+                        <a href="#" class="btn">Leia mais</a>
                     </div>
                 </div>
             </div>

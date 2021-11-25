@@ -7,7 +7,7 @@
                     22 de Novembro de 2021
                 </div>
                 <div class="titulo-post my-3">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit
+                Cuidados com a higiene do seu pet!
                 </div>
                 <a href="single.php" class="btn">
                     Leia mais

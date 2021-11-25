@@ -3,12 +3,10 @@
         <div class="row justify-content-center">
             <div class="sobre">
                 <h3 class="titulo text-center">Sobre a Adote Patinhas</h3>
-                <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error culpa nisi quidem,
-                    placeat corrupti
-                    porro eligendi illo laboriosam fuga, assumenda, ullam ut provident maxime laborum quo iusto
-                    voluptatum quia necessitatibus.
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt quidem, libero quibusdam ipsam, eligendi rerum sint odio ullam facere ipsum enim officiis consectetur. Ipsa quia ratione odio sed, reprehenderit similique.
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam dolores sunt commodi magni assumenda, obcaecati repellendus quisquam vel molestias! Expedita debitis pariatur harum autem, beatae laborum ullam totam non ab.</p>
+                <p class="my-4">Olá! Nós somos a Adote Patinhas! Nosso objetivo é combater o excesso de animais de rua e o abandono, conectando entidades responsáveis e futuros tutores. 
+                    Queremos que cada vez mais pessoas tenham acesso a instituições que cuidam de animais, tornando-as mais visíveis e facilitando o acesso a adoção de animais.<br>
+                    <br>Aqui na nossa plataforma, ONG’s podem se cadastrar, cadastrar os seus bichinhos que precisam de um lar e assim eles ficam disponíveis para adoção.<br>
+                </p>
                 <p class="text-center sub">Quer fazer parte dessa corrente do bem e adotar? Entenda como funciona:</p>
             </div>
         </div>
@@ -36,7 +34,7 @@
                     <img src="assets/img/sobre3.png" class="card-img-top img-fluid">
                     <div class="card-body">
                         <h5 class="card-title">Levando seu amigo de patinhas para casa</h5>
-                        <p class="card-text my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum dolorem cupiditate blanditiis, aut ut, alias eius optio harum perspiciatis hic nobis possimus magnam nihil repudiandae velit laudantium numquam consequatur iste.</p>
+                        <p class="card-text my-4">Após encontrar o seu novo pet, a ong responsável entrará em contato para o tão sonhado encontro acontecer!</p>
                     </div>
                 </div>
             </div>
