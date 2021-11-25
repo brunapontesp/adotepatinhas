@@ -22,7 +22,8 @@
 
                             </div>
 
-                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Informações</a>
+                            <a href="#" class="btn btn-1">Adote</a>
                         </div>
                     </div>
 
@@ -43,7 +44,8 @@
                                 </span>
                             </div>
 
-                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Informações</a>
+                            <a href="#" class="btn btn-1">Adote</a>
                         </div>
                     </div>
 
@@ -62,7 +64,8 @@
                                     <p>Fêmea</p>
                                 </span>
                             </div>
-                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Informações</a>
+                            <a href="#" class="btn btn-1">Adote</a>
                         </div>
                     </div>
 
@@ -81,7 +84,8 @@
                                     <p>Macho</p>
                                 </span>
                             </div>
-                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Informações</a>
+                            <a href="#" class="btn btn-1">Adote</a>
                         </div>
                     </div>
                 </div>
@@ -102,7 +106,8 @@
                                     <p>Fêmea</p>
                                 </span>
                             </div>
-                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Informações</a>
+                            <a href="#" class="btn btn-1">Adote</a>
                         </div>
                     </div>
 
@@ -121,7 +126,8 @@
                                     <p>Fêmea</p>
                                 </span>
                             </div>
-                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Informações</a>
+                            <a href="#" class="btn btn-1">Adote</a>
                         </div>
                     </div>
 
@@ -140,7 +146,8 @@
                                     <p>Macho</p>
                                 </span>
                             </div>
-                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Informações</a>
+                            <a href="#" class="btn btn-1">Adote</a>
                         </div>
                     </div>
 
@@ -159,7 +166,8 @@
                                     <p>Fêmea</p>
                                 </span>
                             </div>
-                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Go somewhere</a>
+                            <a href="#" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Informações</a>
+                            <a href="#" class="btn btn-1">Adote</a>
                         </div>
                     </div>
                 </div>
@@ -174,11 +182,42 @@
                         </div>
 
                         <div class="modal-body">
-                            <div class="col-6">
-                                <img class="img-fluid" src="assets/img/adote1.jpg" alt="">
+                            <div class="nome col-12 mb-4">
+                                <h6>Nome</h6>
+                                <h5>Sherlock</h5>
                             </div>
-                            <div class="col-6">
 
+                            <div class="peso mb-4">
+                                <h6>Peso</h6>
+                                <h5>2 kg</h5>
+                            </div>
+
+                            <div class="idade mb-4">
+                                <h6>Idade aproximada</h6>
+                                <h5>1 ano</h5>
+                            </div>
+
+                            <div class="micro mb-4">
+                                <h6>Microchip</h6>
+                                <h5>62545264878445</h5>
+                            </div>
+
+                            <div class="especie col-12 mb-4">
+                                <h6>Espécie</h6>
+                                <h5>Cachorro</h5>
+                            </div>
+
+                            <div class="porte col-12 mb-4">
+                                <h6>Porte</h6>
+                                <h5>Médio</h5>
+                            </div>
+                            <div class="local col-12 mb-4">
+                                <h6>Local</h6>
+                                <h5>São Paulo, SÃO PAULO - SP</h5>
+                            </div>
+                            <div class="sobre col-12 mb-4">
+                                <h6>Sobre o pet</h6>
+                                <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit itaque rem labore neque explicabo quis consectetur vero unde.</h5>
                             </div>
                         </div>
 

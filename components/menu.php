@@ -30,10 +30,10 @@
 
                 <ul class="navbar-nav navbar-login mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="home.php">Entrar</a>
+                        <a class="nav-link" href="login.php">Entrar</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="modelo-adocao.php">Cadastrar</a>
+                        <a class="nav-link" href="login.php">Cadastrar</a>
                     </li>
                 </ul>
 
